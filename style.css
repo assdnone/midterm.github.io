@@ -1,0 +1,61 @@
+body{
+  background: white;
+}
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  text-align: center;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+img {
+  border-radius: 50%;
+}
+
+.colu{
+  padding: 100px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+.singers{
+  padding: 100px;
+}
+.social{
+  color: white;
+}
+.row{
+  color: black;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
